@@ -74,3 +74,4 @@ int main()
 	}
 	dodawanie(tab1, tab2);
 	mnozenie(tab1, tab2);
+}
